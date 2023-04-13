@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Development",
+      "type": "income",
+      "category": "payment",
+      "price": 1000,
+      "createAt": "2020-07-30T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Development",
+      "type": "outcome",
+      "category": "Alimentos",
+      "price": 50,
+      "createAt": "2020-07-31T00:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Education Training",
+      "type": "outcome",
+      "category": "Education",
+      "price": 320,
+      "createAt": "2020-08-02T00:36:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createAt": "2023-04-05T11:30:40.527Z",
+      "id": 4
+    },
+    {
+      "description": "Burguer",
+      "price": 50,
+      "category": "Alimentos",
+      "type": "outcome",
+      "createAt": "2023-04-05T12:10:45.881Z",
+      "id": 5
+    }
+  ]
+}
